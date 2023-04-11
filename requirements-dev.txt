@@ -1,0 +1,14 @@
+# Development Setup
+
+# unittest
+pytest 
+
+
+# linting
+mypy 
+flake8 
+
+# formatting
+black 
+
+rich # fancy console output (optional)
